@@ -1,0 +1,36 @@
+NO;KODE KURIKULUM;KODE MATA KULIAH;KELAS PARALEL;MAX PESERTA;HARI;JAM MULAI;JAM SELESAI;KODE RUANG;NIP DOSEN;MATA KULIAH;DOSEN;SKS;;;;;;
+1;S1ARS2024;ARSUSK112002;A;32;SEL;1420;1620;FST-4-401;198808052019032012d;Ulumul Qur'an;Asniyah Nailasariy, M.Pd.I.;2;;;;;;
+2;S1ARS2024;ARS115011;B;21;RAB;1325;1715;LAB-4-DDK01;199005132019032016d;Studio Struktur, Konstruksi, dan Bahan Bangunan II;Dien F. Awaliyah, M.T.;2;;;;;;
+3;S1ARS2024;ARS115011;A;20;JUM;1325;1715;LAB-4-DDK01;199005132019032016d;Studio Struktur, Konstruksi, dan Bahan Bangunan II;Dien F. Awaliyah, M.T.;2;;;;;;
+4;S1ARS2024;ARS115024;B;8;SEL;1325;1715;FST-3-FST-Lab Arsi 1;198704212019031009d,199005132019032016d,198807272019032021d;Studio Rekayasa Bangunan Terpadu II;Kartiansmara Lilih Purnaumbara, M.Sc.,Dien F. Awaliyah, M.T.,Nia Maharani Raharja, M.Eng.;4;;;;;;
+5;S1ARS2024;ARS115024;B;8;SEN;700;1035;FST-3-FST-Lab Arsi 1;199005132019032016d,198807272019032021d;Studio Rekayasa Bangunan Terpadu II;Dien F. Awaliyah, M.T.,Nia Maharani Raharja, M.Eng.;4;;;;;;
+6;S1ARS2024;ARS115022;A;9;JUM;700;1035;FST-3-FST-Lab Arsi 2;198704212019031009d;Studio Perancangan Arsitektur IV;Kartiansmara Lilih Purnaumbara, M.Sc.;6;;;;;;
+7;S1ARS2024;ARS115022;B;8;JUM;700;1035;FST-3-FST-Lab Arsi 1;198807102019032017d;Studio Perancangan Arsitektur IV;Eulis Yulianti Faridah, M.Ds.;6;;;;;;tidak rabu
+8;S1ARS2024;ARS115022;A;9;KAM;1040;1320;FST-3-FST-Lab Arsi 1;198704212019031009d;Studio Perancangan Arsitektur IV;Kartiansmara Lilih Purnaumbara, M.Sc.;6;;;;;;
+9;S1ARS2024;ARS115022;B;8;KAM;755;940;FST-3-FST-Lab Arsi 1;198807102019032017d;Studio Perancangan Arsitektur IV;Eulis Yulianti Faridah, M.Ds.;6;;;;;;
+10;S1ARS2024;ARS115010;B;21;SEL;1230;1620;LAB-4-DDK01;198704212019031009d,198807102019032017d;Studio Perancangan Arsitektur II;Kartiansmara Lilih Purnaumbara, M.Sc.,Eulis Yulianti Faridah, M.Ds.;4;;;;;;tidak rabu
+11;S1ARS2024;ARS115010;A;20;RAB;850;1320;LAB-4-DDK01;198704212019031009d,198807102019032017d;Studio Perancangan Arsitektur II;Kartiansmara Lilih Purnaumbara, M.Sc.,Eulis Yulianti Faridah, M.Ds.;4;;;;;;
+12;S1ARS2024;ARS115001;A;16;KAM;1040;1415;FST-3-FST-Lab Arsi 2;198807102019032017d;Studio Estetika Bentuk & Geometri;Eulis Yulianti Faridah, M.Ds.;3;;;;;;
+13;S1ARS2024;ARS115001;B;16;KAM;700;940;FST-3-FST-Lab Arsi 2;198704212019031009d;Studio Estetika Bentuk & Geometri;Kartiansmara Lilih Purnaumbara, M.Sc.;3;;;;;;
+14;S1ARS2024;ARS115023;B;8;SEL;850;1320;FST-3-FST-Lab Arsi 1;198807102019032017d;Studio Desain Interior;Eulis Yulianti Faridah, M.Ds.;4;;;;;;
+15;S1ARS2024;ARS115023;A;9;RAB;850;1320;FST-3-FST-Lab Arsi 1;198807102019032017d;Studio Desain Interior;Eulis Yulianti Faridah, M.Ds.;4;;;;;;
+16;S1ARS2024;ARS115013;A;41;RAB;700;845;LAB-4-DDK01;198807102019032017d;Rekayasa Termal dan Pencahayaan;Eulis Yulianti Faridah, M.Ds.;2;;;;;;
+17;S1ARS2024;ARS115012;B;14;KAM;945;1320;LAB-1-L-ISDL;199005132019032016d;Presentasi dan Aplikasi Komputer;Dien F. Awaliyah, M.T.;3;;;;;;
+18;S1ARS2024;ARS115012;A;14;JUM;700;940;;199005132019032016d;Presentasi dan Aplikasi Komputer;Dien F. Awaliyah, M.T.;3;;;;;;
+19;S1ARS2024;ARS115012;C;13;KAM;700;940;LAB-1-L-ISDL;199005132019032016d;Presentasi dan Aplikasi Komputer;Dien F. Awaliyah, M.T.;3;;;;;;
+20;S1ARS2024;ARS115014;B;21;SEN;1325;1715;FST-3-FST-Lab Arsi 2;198704212019031009d;Perencanaan Tapak;Kartiansmara Lilih Purnaumbara, M.Sc.;2;;;;;;
+21;S1ARS2024;ARS115014;A;20;SEN;850;1320;FST-3-FST-Lab Arsi 2;198704212019031009d;Perencanaan Tapak;Kartiansmara Lilih Purnaumbara, M.Sc.;2;;;;;;
+22;S1ARS2024;ARSUSK112001;A;32;RAB;1230;1510;GKT-3-302;198909122019031008d,197912042006042003d,197908062006042001d;Pengantar Studi Islam (Dirasat Islamiyah);Ahmad Izudin, M.Si.,Dr. Siti Mutmainah, S.Kom, M.Cs,Prof. Ir. Dwi Agustina Kurniawati, S.T., M.Eng., Ph.D., IPM., ASEAN Eng.;2;;;;;;
+23;S1ARS2024;ARSUSK112001;A;32;JUM;850;1035;FST-3-301;198909122019031008d;Pengantar Studi Islam (Dirasat Islamiyah);Ahmad Izudin, M.Si.;1;;;;;;
+24;S1ARS2024;ARSUSK112001;A;32;SEN;700;845;FST-4-408;198909122019031008d;Pengantar Studi Islam (Dirasat Islamiyah);Ahmad Izudin, M.Si.;1;;;;;;
+25;S1ARS2024;ARS115002;A;32;SEL;850;1035;FST-3-FST-Lab Arsi 2;198704212019031009d;Pengantar Arsitektur;Kartiansmara Lilih Purnaumbara, M.Sc.;2;;;;;;
+26;S1ARS2024;ARSNAS111002;A;32;JUM;700;845;FST-1-103;198807272019032021d;Pancasila;Nia Maharani Raharja, M.Eng.;2;;;;;;
+27;S1ARS2024;ARS115025;A;20;SEL;700;845;LAB-4-DDK01;198704212019031009d,198210262015031004d;Ornamen dan Kaligrafi;Kartiansmara Lilih Purnaumbara, M.Sc.,Nurul Huda, S.S., M.Pd.I.;2;;;;;;
+28;S1ARS2024;ARS115003;A;16;SEL;1040;1320;FST-3-FST-Lab Arsi 2;199005132019032016d;Konstruksi Bangunan Dasar;Dien F. Awaliyah, M.T.;2;;;;;;
+29;S1ARS2024;ARS115003;B;16;SEL;700;845;FST-3-FST-Lab Arsi 2;199005132019032016d;Konstruksi Bangunan Dasar;Dien F. Awaliyah, M.T.;2;;;;;;
+30;S1ARS2024;ARSUSK112004;A;17;SEL;755;940;FST-3-303-B;197805102005011003d;Islam dan Sains;Frida Agung Rahmadi, S.Si., M.Sc.;2;;;;;;
+31;S1ARS2024;ARSUSK112005;A;17;SEL;945;1130;FST-3-303-B;197608202005011005d,199005132019032016d;Islam dan Ilmu Sosial Humaniora;Prof. Dr. Fathorrahman, S.Ag., M.Si.,Dien F. Awaliyah, M.T.;2;;;;;;
+32;S1ARS2024;ARS115004;A;16;SEN;850;1130;LAB-4-DDK01;198807102019032017d;Gambar Arsitektur;Eulis Yulianti Faridah, M.Ds.;3;;;;;;
+33;S1ARS2024;ARS115004;B;16;SEN;1230;1510;LAB-4-DDK01;198807102019032017d;Gambar Arsitektur;Eulis Yulianti Faridah, M.Ds.;3;;;;;;
+34;S1ARS2024;ARSNAS111001;A;32;JUM;1325;1510;FST-4-408;198807272019032021d;Bahasa Indonesia;Nia Maharani Raharja, M.Eng.;2;;;;;;
+35;S1ARS2024;ARS115015;A;20;KAM;1325;1620;LAB-4-DDK01;199204220000002302d;Arsitektur dan Manusia;Quonita Hassan, S.Ars., M.Arch.;3;;;;;;

@@ -1,0 +1,21 @@
+NO;KODE KURIKULUM;KODE MATA KULIAH;KELAS PARALEL;MAX PESERTA;HARI;JAM MULAI;JAM SELESAI;KODE RUANG;NIP DOSEN;MATA KULIAH;DOSEN;SKS
+1;S2TIN2024;TIN226111;A;10;JUM;1925;2110;FST-1-102;197903262006042002d;Sustainable Engineering;Dr. Ir. Ira Setyaningsih, S.T., M.Sc, IPM, ASEAN Eng.;2
+2;S2TIN2024;TIN226111;A;10;SEN;850;1035;FST-1-102;197903262006042002d;Sustainable Engineering;Dr. Ir. Ira Setyaningsih, S.T., M.Sc, IPM, ASEAN Eng.;2
+3;S2TIN2024;TIN215003;A;15;RAB;1530;1715;FST-1-101;197903262006042002d,197509122008012015d;Statistika Multivariat;Dr. Ir. Ira Setyaningsih, S.T., M.Sc, IPM, ASEAN Eng.,Dr. Epha Diana Supandi, S.Si, M.Sc.;4
+4;S2TIN22;TIN526001;A;15;SEN;1040;1320;FST-1-102;198110252009121002d;Sistem Produksi;Dr. Yandra Rahadian Perdana, ST., MT.;2
+5;S2TIN2024;TIN215004;A;15;JUM;1325;1510;FST-1-102;198512122019032018d;Sistem Manufaktur Terintegrasi;Ir. Khusna Dwijayanti, ST., M.Eng., Ph.D., ASEAN Eng.;2
+6;S2TIN2024;TIN215004;A;15;RAB;1720;1920;FST-1-101;198512122019032018d;Sistem Manufaktur Terintegrasi;Ir. Khusna Dwijayanti, ST., M.Eng., Ph.D., ASEAN Eng.;2
+7;S2TIN2024;TIN226216;A;10;SEN;1325;1510;FST-1-102;197908062006042001d;Rekayasa Rantai Pasok Halal;Prof. Ir. Dwi Agustina Kurniawati, S.T., M.Eng., Ph.D., IPM., ASEAN Eng.;2
+8;S2TIN2024;TIN226216;A;10;JUM;700;845;FST-1-102;197908062006042001d;Rekayasa Rantai Pasok Halal;Prof. Ir. Dwi Agustina Kurniawati, S.T., M.Eng., Ph.D., IPM., ASEAN Eng.;2
+9;S2TIN2024;TIN226217;A;10;JUM;1530;1715;FST-1-102;198004022005011003d;Multi criteria decision making;Dr. Muhammad Wakhid Musthofa, S.Si., M.Si.;2
+10;S2TIN2024;TIN226217;A;10;RAB;700;845;FST-1-101;198004022005011003d;Multi criteria decision making;Dr. Muhammad Wakhid Musthofa, S.Si., M.Si.;1
+11;S2TIN2024;TIN226217;A;10;SEL;1040;1130;L-401;198004022005011003d,197406112008012009d,197908062006042001d;Multi criteria decision making;Dr. Muhammad Wakhid Musthofa, S.Si., M.Si.,Siti Aisah, S.Si., M.Si.,Prof. Ir. Dwi Agustina Kurniawati, S.T., M.Eng., Ph.D., IPM., ASEAN Eng.;1
+12;S2TIN2024;TIN215002;A;15;SEN;1510;1920;FST-1-102;198110252009121002d,197908062006042001d;Metodologi Penelitian;Dr. Yandra Rahadian Perdana, ST., MT.,Prof. Ir. Dwi Agustina Kurniawati, S.T., M.Eng., Ph.D., IPM., ASEAN Eng.;2
+13;S2TIN2024;TIN215002;A;15;RAB;1325;1510;FST-3-308;198110252009121002d,197908062006042001d;Metodologi Penelitian;Dr. Yandra Rahadian Perdana, ST., MT.,Prof. Ir. Dwi Agustina Kurniawati, S.T., M.Eng., Ph.D., IPM., ASEAN Eng.;2
+14;S2TIN22;TIN526002;A;15;RAB;1040;1320;FST-3-308;198206172009121005d;Metode Kuantitatif;Noor Saif Muhammad Mussafi, S.Si., M.Sc., Ph.D.;2
+15;S2TIN2024;TIN226110;A;10;JUM;850;1035;FST-1-102;198110252009121002d;Manajemen Rantai Pasok Keperilakuan;Dr. Yandra Rahadian Perdana, ST., MT.;2
+16;S2TIN2024;TIN226110;A;10;RAB;1925;2110;FST-1-101;198110252009121002d;Manajemen Rantai Pasok Keperilakuan;Dr. Yandra Rahadian Perdana, ST., MT.;2
+17;S2TIN2024;TIN215001;A;15;SEN;1530;1715;FST-1-102;198110252009121002d;Falsafah Teknik Industri;Dr. Yandra Rahadian Perdana, ST., MT.;2
+18;S2TIN2024;TIN215001;A;15;KAM;1530;1715;R-Jurnal;198110252009121002d;Falsafah Teknik Industri;Dr. Yandra Rahadian Perdana, ST., MT.;2
+19;S2TIN22;TIN526004;A;15;RAB;850;1035;FST-3-308;198512122019032018d;Ergonomi;Ir. Khusna Dwijayanti, ST., M.Eng., Ph.D., ASEAN Eng.;2
+20;S2TIN22;TIN526003;A;15;JUM;1720;1920;FST-1-102;197903262006042002d;Ekonomi Teknik;Dr. Ir. Ira Setyaningsih, S.T., M.Sc, IPM, ASEAN Eng.;2
