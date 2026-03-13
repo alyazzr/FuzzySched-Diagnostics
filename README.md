@@ -4,9 +4,7 @@
 
 Repositori ini memuat *source code* dan data yang digunakan dalam penelitian skripsi berjudul:
 **"PEMODELAN LOGIKA FUZZY TIPE MAMDANI UNTUK DIAGNOSIS FAKTOR PENGHAMBAT EFISIENSI PENJADWALAN MATA KULIAH MELALUI ANALISIS SENSITIVITAS VARIABEL INPUT"**
-
 ---
-
 ## 📖 Latar Belakang
 Penjadwalan mata kuliah di perguruan tinggi seringkali menghadapi kendala kompleks akibat berbagai variabel yang saling tarik-menarik. Proyek ini bertujuan untuk membangun sebuah model diagnosis berbasis *Fuzzy Logic Mamdani* yang tidak hanya menghasilkan tingkat efisiensi penjadwalan, tetapi juga melakukan **Analisis Sensitivitas** untuk mengetahui secara pasti variabel input mana yang paling menjadi *bottleneck* (penghambat utama) dalam penyusunan jadwal.
 
@@ -14,9 +12,7 @@ Penjadwalan mata kuliah di perguruan tinggi seringkali menghadapi kendala komple
 * **Pemodelan Fuzzy Mamdani:** Menggunakan basis aturan (*rule base*) yang diekstraksi dari pakar untuk memodelkan ketidakpastian dalam penjadwalan akademik.
 * **Analisis Sensitivitas:** Mengukur dan menganalisis seberapa besar pengaruh setiap variabel input terhadap output efisiensi penjadwalan.
 * **Sistem Diagnosis Otomatis:** Memberikan hasil evaluasi yang secara langsung mengidentifikasi faktor utama yang menghambat kelancaran penyusunan jadwal.
-
 ---
-
 ## 🔬 Metodologi & Variabel
 Sistem ini dibangun menggunakan metode **Fuzzy Inference System (FIS) Mamdani** yang secara garis besar terdiri dari tahapan: Pembentukan Himpunan Fuzzy (Fuzzifikasi), Aplikasi Fungsi Implikasi, Komposisi Aturan, dan Defuzzifikasi (menggunakan metode *Centroid*).
 
@@ -24,17 +20,13 @@ Sistem ini dibangun menggunakan metode **Fuzzy Inference System (FIS) Mamdani** 
 * **Input:** Keterisian Ruang, Pelanggaran Batasan Akademik, Waktu Tunggu Mahasiswa. 
 * **Output Utama:** Tingkat Efisiensi Penjadwalan (Tidak Efisien, Cukup Efisien, Efisien).
 * **Output Diagnosis:** Identifikasi variabel input paling sensitif yang menyebabkan penurunan efisiensi.
-
 ---
-
 ## 🛠️ Teknologi yang Digunakan
 * **Python 3.8+**
 * `scikit-fuzzy` (Untuk pemodelan logika fuzzy)
 * `numpy` (Untuk komputasi numerik)
 * `pandas` (Untuk manipulasi dataset)
-
 ---
-
 ## ⚙️ Cara Menjalankan Program (Instalasi)
 
 1. **Clone repositori ini:**
@@ -71,16 +63,16 @@ fuzzysched-diagnostics/
 ├── sistem_fuzzy.py                   # Modul inti sistem inferensi Logika Fuzzy Mamdani
 ├── validasi.py                       # Skrip untuk proses validasi dan pengujian model
 └── visualisasi.py                    # Modul umum untuk menampilkan plot dan grafik
-
+```
 ## 👤 Penulis
 
 **Alya Azzahra**
 * **NIM:** 22106050008
-* **Program Studi:** Informatika 
-* **Fakultas:** Fakultas Sains dan Teknologi
-* **Universitas:** UIN Sunan Kalijaga
+* **Program Studi:** [Nama Program Studi, misal: Teknik Informatika / Ilmu Komputer]
+* **Fakultas:** [Nama Fakultas, misal: Fakultas Sains dan Teknologi]
+* **Universitas:** [Nama Universitas]
 
 *Repositori ini dibuat sebagai bagian dari penelitian Skripsi untuk memenuhi syarat kelulusan jenjang Strata-1 (S1).*
 
 ---
-*Jika ada pertanyaan atau saran terkait sistem FuzzySched Diagnostics ini, silakan hubungi melalui alyaazzahra0504@gmail.com 
+*Jika ada pertanyaan atau saran terkait sistem FuzzySched Diagnostics ini, silakan hubungi melalui [Alamat Email Kamu] atau buat _issue_ di repositori ini.*
